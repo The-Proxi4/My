@@ -1,0 +1,1 @@
+#calcular el area de un triangulo con la formula de heron p=(a+b+c)/2 --------- a=RC(p+(p-a)*(p-b)*(p-c)
